@@ -1,0 +1,38 @@
+[
+  {
+    "benchId": "node/375950185",
+    "author": "Alice",
+    "rating": 5,
+    "comment": "Wonderful place."
+  },
+  {
+    "benchId": "node/375950185",
+    "author": "Bob",
+    "rating": 5,
+    "comment": "Quiet and relaxing."
+  },
+  {
+    "benchId": "node/4553313835",
+    "author": "Fedra",
+    "rating": 3,
+    "comment": "Nice view but too many tourists and annoying   pigeons."
+  },
+  {
+    "benchId": "node/4181201895",
+    "author": "Fedra",
+    "rating": 3,
+    "comment": "This bench faces the sunlight in the afternoon so it's burning hot in summer."
+  },
+  {
+    "benchId": "node/469345833",
+    "author": "Anonymous",
+    "rating": 5,
+    "comment": "💛"
+  },
+  {
+    "benchId": "node/4181201894",
+    "author": "Fedra",
+    "rating": 5,
+    "comment": "This is a test review"
+  }
+]
