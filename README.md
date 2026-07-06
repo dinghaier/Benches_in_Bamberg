@@ -14,27 +14,27 @@ Users can explore benches on a Mapbox map, filter benches by type and location f
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/dinghaier/Benches_in_Bamberg.git
+`git clone https://github.com/dinghaier/Benches_in_Bamberg.git`
 
 2. Move into the project folder:
-cd Benches_in_Bamberg
+`cd Benches_in_Bamberg`
 
 3. Install all dependencies:
-npm install
+`npm install`
 
 4. Create a `.env` file in the project root and add:
-VITE_MAPBOX_TOKEN = mapbox_public_token；
+`VITE_MAPBOX_TOKEN = mapbox_public_token；`
 
 ## Running the Project
 This project needs two terminals.
 
 1. Terminal 1 - Frontend
-npm run dev
+`npm run dev`
 
 The frontend will be available at: http://localhost:5173
 Open http://localhost:5173 in browser.
 
 2. Terminal 2 - Backend
-node server/server.js
+`node server/server.js`
 
 The backend will run at: http://localhost:3000
